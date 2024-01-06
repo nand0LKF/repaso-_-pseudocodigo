@@ -1,15 +1,18 @@
 //analisis
-//Definicion del problema
-//Datos de entrada
-//Informacion de salida
-//Variable: tipoDeDatos_Nombre
+//Definicion del problemadeterminar el mayor y el menor de las edades ingresadas por el usuario
+//Datos de entrada: EDAD1 EDAD2 EDAD3 
+//Informacion de salida: "MAYOR ES: " EDAD1 Y "MENOR ES:" EDAD1
+//Variable: `EDAD1`, `EDAD2`, `EDAD3`DEFINIR COMO ENTEROS PARA ALMACENAR LAS EDADES `mayor`,`menor` definir enteros para almacenar mayor y menor respectivamente
 
-//DISEÑO ANTES DEL PSEUDOCODIGO
+//DISEÃ‘O ANTES DEL PSEUDOCODIGO
 //Dividir el problema en etapas simples.
+//pedir 3 edades al usuarios sin importar si es el mismo numero o mayor
+//datos a solicitar `EDAD1`, `EDAD2` `EDAD3` como enteros
+//comparacion: comparar las tres edades para hayar el mayor y el menor.
+//salida de datos: escribir "el mayor de edad es el " mayor y ""el menor es" menor
 //Refinamiento de las etapas con formulas.
 
-//-REALIZAR UN PSEUDOCODIGO PARA DETERMINAR EL MAYOR Y MENOR DE 3 EDADES.
-// VALIDAR SI EL MAYOR Y EL MENOR SON MAYORES DE EDAD. 18AÑOS.
+//-REALIZAR UN PSEUDOCODIGO.
 Algoritmo escri	
 	Escribir "INGRESE LA PRIMERA EDAD"
 	Leer EDAD1
